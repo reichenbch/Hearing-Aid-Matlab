@@ -1,1 +1,2 @@
-# Hearing Aid Matlab
+# Hearing-Aid-System-MATLAB
+Matlab Code
